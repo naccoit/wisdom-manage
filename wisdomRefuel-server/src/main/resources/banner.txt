@@ -1,0 +1,9 @@
+
+   __                        __   ___
+  / /  __ _____ ___ _  ___ _/ /__<  /___
+ / _ \/ // / _ `/  ' \/ _ `/  '_// / __/
+/_.__/\_,_/\_, /_/_/_/\_,_/_/\_\/_/_/
+          /___/
+
+Application Version: ${ecar.version}
+Spring Boot Version: ${spring-boot.version}
